@@ -2,7 +2,7 @@
     <img src="images/Cloudifyops-Logo.jpg" alt="Logo" width="100" height="40">
 </div>
 
-# DevOps Excercise - 1
+# DevOps Excercise - 2
 
 ## Fork repo 
 
